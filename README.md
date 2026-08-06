@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋,Bhavesh Rathod
 
-<!--
-**bhavesh-rathod-2006/bhavesh-rathod-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
+- Python
+- C++
+- Git & GitHub
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested In:
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+
+🚀 Goal:
+To become a skilled Software Engineer and contribute to Open Source Projects.
